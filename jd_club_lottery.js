@@ -136,6 +136,7 @@ const JD_API_HOST = 'https://api.m.jd.com/client.action';
       $.done();
     })
 
+
 async function clubLottery() {
   try {
     await doTasks();//做任务
