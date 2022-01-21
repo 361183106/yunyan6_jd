@@ -153,6 +153,7 @@ async function jdDreamFactory() {
   }
 }
 
+
 function getActiveId(url = 'https://wqsd.jd.com/pingou/dream_factory/index.html') {
   return new Promise(async resolve => {
     const options = {
