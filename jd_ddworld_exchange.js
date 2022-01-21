@@ -112,6 +112,7 @@ async function task(function_id, body) {
         })
     })
 }
+
 function taskPost(function_id, body) {
     return new Promise(async resolve => {
         $.post(taskPostUrl(function_id, body), async (err, resp, data) => {
