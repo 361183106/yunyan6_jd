@@ -75,6 +75,7 @@ const JD_API_HOST = 'https://api.m.jd.com/client.action';
     $.done();
   })
 
+
 async function jdMofang() {
   console.log(`\n集魔方 抽京豆 赢新品`)
   await getInteractionInfo()
