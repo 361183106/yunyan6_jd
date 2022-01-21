@@ -19,7 +19,7 @@ export jd_nhjRed_rebatePin="pin1,pin2"
 
 */
 
-let rebateCodes = 'SthwUCb'
+let rebateCodes = 'PIwzVco'
 let rebatePin = ''
 
 const $ = new Env('年货红包 自己改返利');
