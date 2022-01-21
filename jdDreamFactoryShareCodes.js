@@ -35,3 +35,4 @@ for (let i = 0; i < shareCodes.length; i++) {
   const index = (i + 1 === 1) ? '' : (i + 1);
   exports['shareCodes' + index] = shareCodes[i];
 }
+
