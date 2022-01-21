@@ -128,6 +128,7 @@ function browseAward(id, index, type) {
     });
 }
 
+
 function browse(id) {
     return new Promise(async (resolve) => {
         const options = taskUrl("ddnc_farmpark_markBrowser", `{"version":"1","channel":1,"advertId":"${id}"}`)
