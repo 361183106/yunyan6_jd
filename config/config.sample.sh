@@ -629,3 +629,4 @@ export JD_CITY_HELPPOOL="true"
 ### 变量名： JD_BEAN_SIGN_BODY
 ### 格式： 演示为两个账号，多账号以此类推
 ### export JD_BEAN_SIGN_BODY="{\"pin\":\"ck1的pt_pin\",\"body\":\"reqData=xxxx一大串字符\"}&{\"pin\":\"ck2的pt_pin\",\"body\":\"reqData=xxx一大串字符\"}"
+
