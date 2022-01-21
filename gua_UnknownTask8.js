@@ -28,6 +28,7 @@ message = ''
     });
     return;
   }
+    
   console.log(`入口:\nhttps://3.cn/1-03EUzX1`)
   for (let i = 0; i < cookiesArr.length; i++) {
     cookie = cookiesArr[i];
