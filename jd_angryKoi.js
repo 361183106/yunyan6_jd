@@ -27,6 +27,7 @@ var tools = []
 
 let notify, allMessage = '';
 
+
 !(async () => {
     await requireConfig()
 
