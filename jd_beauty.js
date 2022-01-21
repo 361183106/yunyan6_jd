@@ -138,6 +138,7 @@ async function jdBeauty() {
   await showMsg();
 }
 
+
 async function mr() {
   $.coins = 0
   let positionList = ['b1', 'h1', 's1', 'b2', 'h2', 's2']
