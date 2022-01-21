@@ -83,6 +83,7 @@ for (let i in productsArr) {
     });
     return;
   }
+    
   if(cleancartRun !== 'true'){
     console.log('脚本停止\n请添加环境变量[gua_cleancart_Run]为"true"')
     return
