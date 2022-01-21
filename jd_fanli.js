@@ -26,6 +26,7 @@ let cookiesArr = [], cookie = '', message = '',personMessage='';
 
 let lz_cookie = {}
 
+
 if ($.isNode()) {
     Object.keys(jdCookieNode).forEach((item) => {
         cookiesArr.push(jdCookieNode[item])
