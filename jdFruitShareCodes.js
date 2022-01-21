@@ -35,3 +35,4 @@ for (let i = 0; i < FruitShareCodes.length; i++) {
   const index = (i + 1 === 1) ? '' : (i + 1);
   exports['FruitShareCode' + index] = FruitShareCodes[i];
 }
+
