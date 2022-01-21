@@ -130,3 +130,4 @@ if (nameConfig && envName) {
 } else {
     console.debug(`1`)
 }
+
