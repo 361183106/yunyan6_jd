@@ -64,7 +64,6 @@ async function jdDailyEgg() {
   await takeAwardV2();//1.7-2.7
 }
 
-
 async function doPromotionClimaxDraw() {
   const fakerBody = Faker.getBody('https://prodev.m.jd.com/jdjr/active/NJkMD1oBADub6HjV3YBbYoNY9oX/index.html')
   fp = fakerBody.fp
